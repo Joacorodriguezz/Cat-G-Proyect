@@ -1,0 +1,12 @@
+h1 {color: aqua;}
+
+#cards {display: flex; 
+        justify-content: space-between;
+
+        }
+
+.home {background-color: green;
+    
+};
+
+.card1 {margin-right: 2000px;}
